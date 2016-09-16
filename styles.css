@@ -6,6 +6,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
+    background-color: #3b5998;
   margin-bottom: 60px;
 }
 .footer {
@@ -36,4 +37,18 @@ body {
 
 .edgeUp{
   margin-top: -5px;
+}
+.footer{
+    background-color: #dfe3ee;
+}
+.panel-heading{
+    background-color:  #e6f7ff;
+
+}
+.panel-body{
+    background-color: #afb4b6;
+    
+}
+.list-group{
+    background-color: aliceblue;
 }
